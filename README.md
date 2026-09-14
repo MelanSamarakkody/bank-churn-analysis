@@ -7,7 +7,7 @@ A Business Analyst case study on customer churn for a retail bank operating in F
 - **Goal:** identify which customer segments are most likely to churn, quantify the scale of the problem, and surface actionable recommendations.
 - **Dataset:** Kaggle-style "Bank Customer Churn" dataset, delivered as a deliberately messy two-sheet Excel workbook (`Customer_Info`, `Account_Info`) requiring merging, validation, and cleaning.
 - **Tools:** Python, pandas, matplotlib, Jupyter (VS Code).
-- **Baseline churn rate:** 20.4% (2,037 of 10,000 customers).
+- **Baseline churn rate:** 20.37% (2,037 of 10,000 customers).
 
 ![Overall churn](images/overview.PNG)
 
