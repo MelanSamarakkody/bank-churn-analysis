@@ -9,7 +9,7 @@ A Business Analyst case study on customer churn for a retail bank operating in F
 - **Tools:** Python, pandas, matplotlib, Jupyter (VS Code).
 - **Baseline churn rate:** 20.4% (2,037 of 10,000 customers).
 
-![Overall churn](images/churn_donut.png)
+![Overall churn](images/overview.PNG)
 
 ## Data Cleaning
 
