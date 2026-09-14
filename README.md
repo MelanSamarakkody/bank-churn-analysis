@@ -87,6 +87,9 @@ Age (0.29), IsActiveMember (-0.16), and Balance (0.12) show the strongest linear
 3. Build a targeted retention track for the 51-60 age segment.
 4. Review onboarding/product-deepening for 1-product customers; audit the small 3-4 product segment for a possible data/process issue.
 5. Treat the €200k+ balance finding as a hypothesis to validate with more data.
+<br>
+   
+For the complete write-up — including business recommendations and the full data quality methodology — see [`docs/bank-churn-analysis-case-study.docx`](docs/bank_churn_analysis_case_study.pdf).
 
 ## Next Steps
 
