@@ -97,9 +97,14 @@ A predictive model (logistic regression / random forest) is planned as a follow-
 ```
 ├── data/
 │   └── bank_churn_cleaned.csv
+|   └── bank_churn_messy.xlsx
+|    docs/
+|   └── bank_churn_analysis_case_study.pdf
 ├── images/
 │   └── (chart PNGs used above)
-├── notebook.ipynb
-├── Bank_Churn_Analysis_Case_Study.docx
+├── power-bi/
+|   └── bank_churn_analysis.pbix
+├── python
+|   └── notebook.ipynb
 └── README.md
 ```
