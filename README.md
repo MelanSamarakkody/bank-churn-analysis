@@ -1,6 +1,6 @@
 # Bank Customer Churn Analysis
 
-A Business Analyst case study on customer churn for a retail bank operating in France, Germany, and Spain — built end-to-end in **Python/pandas**, as the third project in a BA portfolio series (the first two used SQL + Power BI).
+A Business Analyst case study on customer churn for a retail bank operating in France, Germany, and Spain — built end-to-end with **Python/pandas/matplotlib**.
 
 ## Overview
 
