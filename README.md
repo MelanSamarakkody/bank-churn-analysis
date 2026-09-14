@@ -89,7 +89,7 @@ Age (0.29), IsActiveMember (-0.16), and Balance (0.12) show the strongest linear
 5. Treat the €200k+ balance finding as a hypothesis to validate with more data.
 <br>
    
-For the complete write-up — including business recommendations and the full data quality methodology — see [`docs/bank-churn-analysis-case-study.docx`](docs/bank_churn_analysis_case_study.pdf).
+For the complete write-up — including business recommendations and the full data quality methodology — see [`docs/bank-churn-analysis-case-study.pdf`](docs/bank_churn_analysis_case_study.pdf).
 
 ## Next Steps
 
